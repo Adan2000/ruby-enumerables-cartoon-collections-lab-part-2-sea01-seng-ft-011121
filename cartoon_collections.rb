@@ -18,12 +18,6 @@ end
 end
 
 
-
-
-
-
-
-
 def long_planeteer_calls(planeteer_calls)
 
 planeteer_calls.any? do |element|
