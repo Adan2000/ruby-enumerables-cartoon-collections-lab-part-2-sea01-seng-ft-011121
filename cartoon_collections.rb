@@ -12,7 +12,6 @@ def summon_captain_planet(planeteer_calls)
   puts "#{element.capitalize}!"
 
 end
-element
 end
 
 
