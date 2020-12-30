@@ -29,8 +29,7 @@ def long_planeteer_calls(planeteer_calls)
   # Return the boolean result of this check
   planeteer_calls.each do |element|
     if element.length > 4 
-      binding.pry
-      puts "hui"
+
       
 end
 end
