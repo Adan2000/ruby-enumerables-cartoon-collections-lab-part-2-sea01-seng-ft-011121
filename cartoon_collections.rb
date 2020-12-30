@@ -17,7 +17,7 @@ def summon_captain_planet(planeteer_calls)
     p #{element}!"
   
 
-
+end
 end
 
 
