@@ -10,6 +10,7 @@ def summon_captain_planet(planeteer_calls)
 
   planeteer_calls.map |element|
   print #{element!}
+
 end
 end
 
